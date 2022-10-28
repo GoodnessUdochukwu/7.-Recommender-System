@@ -1,4 +1,4 @@
-# 7.-Recommender-System
+# Recommender-System
 This work design Recommender system for movies using the following methods:
 1. Popularity-Based.
 2. Content-Based:
